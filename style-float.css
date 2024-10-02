@@ -1,0 +1,38 @@
+body {
+    background: #f3f2f3; color: #000000;
+    font-family: Trebuchet MS, Arial, Times New Roman;
+    font-size: 15px;
+}
+#container {
+    background:white;
+    margin: 50px auto;
+    width: 50%;
+    height: 700px;
+}
+#header {
+    background: #239ec6;
+    text-align: center;
+    height: 100px;
+    width: 100%;
+}
+#left-column {
+    background: #9191fb;
+    text-align: center;
+    float: left;
+    width: 50%;
+    height: 500px;
+}
+#right-column {
+    background: #ade4f6;
+    text-align: center;
+    float: right;
+    width: 50%;
+    height: 500px;
+}
+#footer {
+    background: #239ec6;
+    text-align: center;
+    float: left;
+    height: 100px;
+    width: 100%;
+}
